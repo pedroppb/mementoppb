@@ -1,4 +1,4 @@
-package observerppb;
+package mementoppb;
 
 
 public class Produto {
